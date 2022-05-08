@@ -1,0 +1,47 @@
+.header{
+    background-color: #2778CE;
+    color: white;
+    padding: 25px 0px;
+    margin-bottom: 25px;
+}
+
+.header-title {
+    text-align: center;
+}
+
+.container {
+    padding: 20px 20px;
+}
+.employee {
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 7px;
+}
+
+.employee-name {
+    padding: 18px;
+    background-color: lightblue;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.employee-info {
+    padding: 18px;
+    background-color: aliceblue;
+}
+
+.employee-info p {
+    padding: 10px;
+    margin: 8px;
+    background-color: white;
+}
+
+.employee-info span {
+    font-weight: 600;
+}
+
+.data {
+    margin: 25px 0;
+}
+
+
+
