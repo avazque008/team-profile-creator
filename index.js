@@ -16,8 +16,6 @@ const startApp = () => {
             const manager = new Manager(info.managerName, info.managerID, info.managerEmail, info.managerNumber);
             
             managerInfo.push(manager);
-            console.log(managerInfo);
-
             confirmTeam();
         });
 };
