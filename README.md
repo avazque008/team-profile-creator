@@ -54,7 +54,7 @@ A command-line application that dynamically generates a team profile from a user
 
 ## Tests
 
-[Walkthrough Video](https://drive.google.com/file/d/1di94ZTb5RWgtI_d96pnuVZngErxCO91s/view) 
+[Walkthrough Video](https://drive.google.com/file/d/1di94ZTb5RWgtI_d96pnuVZngErxCO91s/view){:target="_blank"}
 
 
 ## Questions
@@ -64,4 +64,4 @@ If you require any further information / assistance, please feel free to contact
 ### Contact Information
 
 * Email: avazque008@outlook.com
-* [Github Profile](https://github.com/avazque008")
+* [Github Profile](https://github.com/avazque008)
