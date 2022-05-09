@@ -54,7 +54,7 @@ A command-line application that dynamically generates a team profile from a user
 
 ## Tests
 
-[Walkthrough Video](https://drive.google.com/file/d/1di94ZTb5RWgtI_d96pnuVZngErxCO91s/view){:target="_blank"}
+[Walkthrough Video](https://drive.google.com/file/d/1di94ZTb5RWgtI_d96pnuVZngErxCO91s/view)
 
 
 ## Questions
