@@ -6,7 +6,6 @@ const Engineer = require('./lib/Engineer');
 const Intern = require('./lib/Intern');
 const inquirer = require('inquirer');
 const generateHTML = require('./src/template');
-const writeFile = require('./utils/generate-site');
 
 let employeesInfo = [];
 let managerInfo = [];
@@ -51,12 +50,11 @@ const confirmTeam = () => {
                     });
                 break;
             case 'Exit / Generate Team Profile':
-                writeFile(generateHTML(managerInfo, employeesInfo));
+                generateHTML(managerInfo, employeesInfo);
                 break;           
         }
     });
 };
-
 
 startApp();
 
